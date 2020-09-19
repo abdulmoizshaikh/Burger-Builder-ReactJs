@@ -1,0 +1,10 @@
+.Menu{
+    padding: 4px 5px;
+    text-align: center;
+    border-radius: 3px;
+    background-color: #CF8F2E;
+    display: flex;
+}
+.Menu i{
+    font-size: 1.3em;
+}
